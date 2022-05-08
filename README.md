@@ -20,9 +20,6 @@ Mailing management service. Administration and statistics API
 ```http://0.0.0.0:8000/api/messages/``` - сообщения
 
 ```http://0.0.0.0:8000/docs/``` - docs проекта
-
-```http://0.0.0.0:5555``` - celery flower
-
 ***
 
 **Техзадание:** 
